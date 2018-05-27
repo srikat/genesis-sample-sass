@@ -1,6 +1,8 @@
 # Genesis Sample Sass
 
-This is Genesis Sample 2.6.0's style.css split into Sass partials, taken from Christoph Herr's [Prometheus](https://github.com/christophherr/prometheus/tree/develop/scss) Genesis child theme.
+This is Genesis Sample 2.6.0's style.css split into Sass partials, based on the work by Christoph Herr in his [Prometheus](https://github.com/christophherr/prometheus) Genesis child theme.
+
+Thanks, also to Brian Johnson for converting the Sass partials to be compatible with Convertkit 3.
 
 ## Note
 
